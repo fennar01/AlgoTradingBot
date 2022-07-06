@@ -1,0 +1,5 @@
+swing trading dashboard/bot that scans for good cryptos that are on an upward trend
+finds a good entry point
+then closes out after a predetermined take profit
+
+just like what I do on binance
